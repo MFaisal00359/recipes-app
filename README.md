@@ -19,7 +19,7 @@ Dapur Mama Tur adalah sebuah aplikasi Android yang memudahkan pengguna untuk men
 | Bahasa Pengembangan    | Kotlin         |
 | Target SDK             | 34             |
 | Minimum SDK            | 28             |
-| Database               | Room Database dan SQLite |
+| Auth                   | Firebase       |
 | Lisensi                | MIT Lisence    |
 
 ### Tentang Aplikasi:
