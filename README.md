@@ -9,7 +9,7 @@
 
 🔗 API (https://www.themealdb.com/api.php)
 
-Dapur Mama Tur adalah sebuah aplikasi Android yang memudahkan pengguna untuk menemukan resep-resep masakan. Aplikasi ini dikembangkan menggunakan bahasa Kotlin dan memiliki fitur-fitur seperti penyimpanan data menggunakan Room Database dan SQLite.
+Dapur Mama Tur adalah sebuah aplikasi Android yang memudahkan pengguna untuk menemukan resep-resep masakan. Aplikasi ini dikembangkan menggunakan bahasa Kotlin dan firebase
 
 ### Spesifikasi
 
